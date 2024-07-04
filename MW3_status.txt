@@ -1,0 +1,4 @@
+CHAIR,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/7F_CHAIR.exe
+UA,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/7F_MWIII_UA.exe
+AIO,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/7F_MWIII_AIO_V3.6.exe
+PRIVACY PROTECTOR,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/7F_PROTECTOR.exe
