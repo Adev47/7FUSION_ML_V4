@@ -1,6 +1,6 @@
 Logo,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/7fusion_default_logo.gif
 News_Page,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/support_sentence_v1.png
-Lateral_Menu,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/7fusion_default_lateral.png
+Lateral_Menu,1.00.02,https://i.ibb.co/cX6ML2R/bg.gif
 Background,1.00.02,https://i.ibb.co/cX6ML2R/bg.gif
 BO6,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_BO6_category_wallp.png
 MW3,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_MW3_category_wallp.png
