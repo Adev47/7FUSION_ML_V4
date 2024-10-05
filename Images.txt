@@ -1,4 +1,4 @@
-Logo,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/7fusion_default_logo.gif
+Logo,1.00.02,https://cdn.discordapp.com/attachments/1226820587729588362/1288694002132193300/LOGO.png?ex=6702a390&is=67015210&hm=9ef50d1a7bfa57935648e190b033a7bb78f172e051179c01c87da7133ded7a90&
 News_Page,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/support_sentence_v1.png
 Lateral_Menu,1.00.03,https://cdn.discordapp.com/attachments/1226820587729588362/1292230486659174500/bg.png?ex=6702faec&is=6701a96c&hm=5bed6114efcad797327e4c50339ecd3c7891bffc4d5a1f8632ef37e66a50dd25&
 Background,1.00.03,https://cdn.discordapp.com/attachments/1226820587729588362/1292230486659174500/bg.png?ex=6702faec&is=6701a96c&hm=5bed6114efcad797327e4c50339ecd3c7891bffc4d5a1f8632ef37e66a50dd25&
