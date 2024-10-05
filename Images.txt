@@ -1,7 +1,7 @@
 Logo,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/7fusion_default_logo.gif
 News_Page,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/support_sentence_v1.png
 Lateral_Menu,1.00.03,https://cdn.discordapp.com/attachments/1226820587729588362/1292230486659174500/bg.png?ex=6702faec&is=6701a96c&hm=5bed6114efcad797327e4c50339ecd3c7891bffc4d5a1f8632ef37e66a50dd25&
-Background,1.00.02,https://i.ibb.co/cX6ML2R/bg.gif
+Background,1.00.03,https://cdn.discordapp.com/attachments/1226820587729588362/1292230486659174500/bg.png?ex=6702faec&is=6701a96c&hm=5bed6114efcad797327e4c50339ecd3c7891bffc4d5a1f8632ef37e66a50dd25&
 BO6,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_BO6_category_wallp.png
 MW3,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_MW3_category_wallp.png
 MW2,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_MW2_category_wallp.png
